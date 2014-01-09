@@ -1,0 +1,64 @@
+C:\Users\davidb\documents\visual studio 2012\Projects\Sample-MVC-and-WebAPI\Sample-MVC-and-WebAPI\bin\Sample-MVC-and-WebAPI.dll
+C:\Users\davidb\documents\visual studio 2012\Projects\Sample-MVC-and-WebAPI\Sample-MVC-and-WebAPI\bin\Sample-MVC-and-WebAPI.pdb
+C:\Users\davidb\documents\visual studio 2012\Projects\Sample-MVC-and-WebAPI\Sample-MVC-and-WebAPI\bin\EntityFramework.dll
+C:\Users\davidb\documents\visual studio 2012\Projects\Sample-MVC-and-WebAPI\Sample-MVC-and-WebAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\davidb\documents\visual studio 2012\Projects\Sample-MVC-and-WebAPI\Sample-MVC-and-WebAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\davidb\documents\visual studio 2012\Projects\Sample-MVC-and-WebAPI\Sample-MVC-and-WebAPI\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\davidb\documents\visual studio 2012\Projects\Sample-MVC-and-WebAPI\Sample-MVC-and-WebAPI\bin\Newtonsoft.Json.dll
+C:\Users\davidb\documents\visual studio 2012\Projects\Sample-MVC-and-WebAPI\Sample-MVC-and-WebAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\davidb\documents\visual studio 2012\Projects\Sample-MVC-and-WebAPI\Sample-MVC-and-WebAPI\bin\System.Web.Helpers.dll
+C:\Users\davidb\documents\visual studio 2012\Projects\Sample-MVC-and-WebAPI\Sample-MVC-and-WebAPI\bin\System.Web.Http.dll
+C:\Users\davidb\documents\visual studio 2012\Projects\Sample-MVC-and-WebAPI\Sample-MVC-and-WebAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\davidb\documents\visual studio 2012\Projects\Sample-MVC-and-WebAPI\Sample-MVC-and-WebAPI\bin\System.Web.Mvc.dll
+C:\Users\davidb\documents\visual studio 2012\Projects\Sample-MVC-and-WebAPI\Sample-MVC-and-WebAPI\bin\System.Web.Razor.dll
+C:\Users\davidb\documents\visual studio 2012\Projects\Sample-MVC-and-WebAPI\Sample-MVC-and-WebAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\davidb\documents\visual studio 2012\Projects\Sample-MVC-and-WebAPI\Sample-MVC-and-WebAPI\bin\System.Web.WebPages.dll
+C:\Users\davidb\documents\visual studio 2012\Projects\Sample-MVC-and-WebAPI\Sample-MVC-and-WebAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\davidb\documents\visual studio 2012\Projects\Sample-MVC-and-WebAPI\Sample-MVC-and-WebAPI\bin\T4MVCExtensions.dll
+C:\Users\davidb\documents\visual studio 2012\Projects\Sample-MVC-and-WebAPI\Sample-MVC-and-WebAPI\bin\EntityFramework.xml
+C:\Users\davidb\documents\visual studio 2012\Projects\Sample-MVC-and-WebAPI\Sample-MVC-and-WebAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\davidb\documents\visual studio 2012\Projects\Sample-MVC-and-WebAPI\Sample-MVC-and-WebAPI\bin\Newtonsoft.Json.xml
+C:\Users\davidb\documents\visual studio 2012\Projects\Sample-MVC-and-WebAPI\Sample-MVC-and-WebAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\davidb\documents\visual studio 2012\Projects\Sample-MVC-and-WebAPI\Sample-MVC-and-WebAPI\bin\System.Web.Helpers.xml
+C:\Users\davidb\documents\visual studio 2012\Projects\Sample-MVC-and-WebAPI\Sample-MVC-and-WebAPI\bin\System.Web.Http.xml
+C:\Users\davidb\documents\visual studio 2012\Projects\Sample-MVC-and-WebAPI\Sample-MVC-and-WebAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\davidb\documents\visual studio 2012\Projects\Sample-MVC-and-WebAPI\Sample-MVC-and-WebAPI\bin\System.Web.Mvc.xml
+C:\Users\davidb\documents\visual studio 2012\Projects\Sample-MVC-and-WebAPI\Sample-MVC-and-WebAPI\bin\System.Web.Razor.xml
+C:\Users\davidb\documents\visual studio 2012\Projects\Sample-MVC-and-WebAPI\Sample-MVC-and-WebAPI\bin\System.Web.WebPages.xml
+C:\Users\davidb\documents\visual studio 2012\Projects\Sample-MVC-and-WebAPI\Sample-MVC-and-WebAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\davidb\documents\visual studio 2012\Projects\Sample-MVC-and-WebAPI\Sample-MVC-and-WebAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\davidb\documents\visual studio 2012\Projects\Sample-MVC-and-WebAPI\Sample-MVC-and-WebAPI\obj\Debug\Sample-MVC-and-WebAPI.dll
+C:\Users\davidb\documents\visual studio 2012\Projects\Sample-MVC-and-WebAPI\Sample-MVC-and-WebAPI\obj\Debug\Sample-MVC-and-WebAPI.pdb
+C:\Users\davidb\Documents\visual studio 2012\Projects\Sample-MVC-and-WebAPI\Sample-MVC-and-WebAPI\obj\Debug\Sample-MVC-and-WebAPI.csprojResolveAssemblyReference.cache
+C:\Users\davidb\Desktop\TestRepo\FirstTestProject\Sample-MVC-and-WebAPI\bin\Sample-MVC-and-WebAPI.dll
+C:\Users\davidb\Desktop\TestRepo\FirstTestProject\Sample-MVC-and-WebAPI\bin\Sample-MVC-and-WebAPI.pdb
+C:\Users\davidb\Desktop\TestRepo\FirstTestProject\Sample-MVC-and-WebAPI\bin\EntityFramework.dll
+C:\Users\davidb\Desktop\TestRepo\FirstTestProject\Sample-MVC-and-WebAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\davidb\Desktop\TestRepo\FirstTestProject\Sample-MVC-and-WebAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\davidb\Desktop\TestRepo\FirstTestProject\Sample-MVC-and-WebAPI\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\davidb\Desktop\TestRepo\FirstTestProject\Sample-MVC-and-WebAPI\bin\Newtonsoft.Json.dll
+C:\Users\davidb\Desktop\TestRepo\FirstTestProject\Sample-MVC-and-WebAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\davidb\Desktop\TestRepo\FirstTestProject\Sample-MVC-and-WebAPI\bin\System.Web.Helpers.dll
+C:\Users\davidb\Desktop\TestRepo\FirstTestProject\Sample-MVC-and-WebAPI\bin\System.Web.Http.dll
+C:\Users\davidb\Desktop\TestRepo\FirstTestProject\Sample-MVC-and-WebAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\davidb\Desktop\TestRepo\FirstTestProject\Sample-MVC-and-WebAPI\bin\System.Web.Mvc.dll
+C:\Users\davidb\Desktop\TestRepo\FirstTestProject\Sample-MVC-and-WebAPI\bin\System.Web.Razor.dll
+C:\Users\davidb\Desktop\TestRepo\FirstTestProject\Sample-MVC-and-WebAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\davidb\Desktop\TestRepo\FirstTestProject\Sample-MVC-and-WebAPI\bin\System.Web.WebPages.dll
+C:\Users\davidb\Desktop\TestRepo\FirstTestProject\Sample-MVC-and-WebAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\davidb\Desktop\TestRepo\FirstTestProject\Sample-MVC-and-WebAPI\bin\T4MVCExtensions.dll
+C:\Users\davidb\Desktop\TestRepo\FirstTestProject\Sample-MVC-and-WebAPI\bin\EntityFramework.xml
+C:\Users\davidb\Desktop\TestRepo\FirstTestProject\Sample-MVC-and-WebAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\davidb\Desktop\TestRepo\FirstTestProject\Sample-MVC-and-WebAPI\bin\Newtonsoft.Json.xml
+C:\Users\davidb\Desktop\TestRepo\FirstTestProject\Sample-MVC-and-WebAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\davidb\Desktop\TestRepo\FirstTestProject\Sample-MVC-and-WebAPI\bin\System.Web.Helpers.xml
+C:\Users\davidb\Desktop\TestRepo\FirstTestProject\Sample-MVC-and-WebAPI\bin\System.Web.Http.xml
+C:\Users\davidb\Desktop\TestRepo\FirstTestProject\Sample-MVC-and-WebAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\davidb\Desktop\TestRepo\FirstTestProject\Sample-MVC-and-WebAPI\bin\System.Web.Mvc.xml
+C:\Users\davidb\Desktop\TestRepo\FirstTestProject\Sample-MVC-and-WebAPI\bin\System.Web.Razor.xml
+C:\Users\davidb\Desktop\TestRepo\FirstTestProject\Sample-MVC-and-WebAPI\bin\System.Web.WebPages.xml
+C:\Users\davidb\Desktop\TestRepo\FirstTestProject\Sample-MVC-and-WebAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\davidb\Desktop\TestRepo\FirstTestProject\Sample-MVC-and-WebAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\davidb\Desktop\TestRepo\FirstTestProject\Sample-MVC-and-WebAPI\obj\Debug\Sample-MVC-and-WebAPI.csprojResolveAssemblyReference.cache
+C:\Users\davidb\Desktop\TestRepo\FirstTestProject\Sample-MVC-and-WebAPI\obj\Debug\Sample-MVC-and-WebAPI.dll
+C:\Users\davidb\Desktop\TestRepo\FirstTestProject\Sample-MVC-and-WebAPI\obj\Debug\Sample-MVC-and-WebAPI.pdb

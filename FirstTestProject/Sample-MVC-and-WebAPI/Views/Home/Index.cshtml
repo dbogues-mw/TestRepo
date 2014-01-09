@@ -1,0 +1,106 @@
+﻿@model Sample_MVC_and_WebAPI.Models.IndexModel
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+
+@Model.MyName
+
+<button data-bind='click: testViewModel.testClick'>Test Button - Simple JS Call</button>
+<br />
+<button data-bind='click: testViewModel.testWebAPICallGET'>Test Button - WebAPI Call GET</button>
+<br />
+<button data-bind='click: testViewModel.testWebAPICallPOST'>Test Button - WebAPI Call POST</button>
+<br />
+@Html.ActionLink("Test MVC Controller Attribute", "TestControllerAttribute")
+<br/>
+<button data-bind='click: testViewModel.testLoaclJenkinsBuild'>Test Jenkinds Build</button>
+
+<script src="~/Scripts/jquery-2.0.3.js"></script>
+<script src="~/Scripts/knockout-3.0.0.js"></script>
+
+
+<script type="text/javascript">
+
+    var testViewModel;
+
+    
+
+    //-------------------------------------------------
+    //  TestViewModel
+    //-------------------------------------------------
+    var TestViewModel = function () {
+        var self = this;
+
+        self.testClick = function () {
+            console.log("testClick");
+        };
+
+
+        self.testLoaclJenkinsBuild = function() {
+            console.log("Testing Local Jenkins Build");
+
+            $.ajax({
+                url: 'http://localhost:8080/job/Test_Local_Jenkins_Project3/description',
+                type: 'GET',
+                //dataType: 'json',
+                success: function (data) {
+                    console.log("GET success");
+                    console.log(data);
+                },
+                error: function (data) {
+                    console.log("error");
+                }
+            });
+            
+        };
+
+
+        self.testWebAPICallGET = function() {
+            console.log("testWebAPICallGET");
+            $.ajax({
+                url: 'http://localhost:50311/api/Test',
+                type: 'GET',
+                //dataType: 'json',
+                success: function(data) {
+                    console.log("GET success");
+                    console.log(data);
+                },
+                error: function(data) {
+                    console.log("error");
+                }
+            });
+        };
+
+        self.testWebAPICallPOST = function () {
+            console.log("testWebAPICallPOST");
+            $.ajax({
+                url: 'http://localhost:50311/api/Test',
+                type: 'POST',
+                //dataType: 'json',
+                success: function (data) {
+                    console.log("POST success");
+                    console.log(data);
+                },
+                error: function (data) {
+                    console.log("error");
+                }
+            });
+        }
+
+
+
+
+
+    }
+
+    // pageload
+    $(function () {
+        testViewModel = new TestViewModel();
+        ko.applyBindings(this.testViewModel);
+    });
+
+</script>
